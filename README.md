@@ -46,4 +46,4 @@ It’s fully responsive — optimized for both desktop and mobile devices.
 
 ---
 
-© 2025 Anjana Suresh — Designed and Developed with ❤️ using HTML & CSS
+ 2025 Anjana Suresh — Designed and Developed with  using HTML & CSS
